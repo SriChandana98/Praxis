@@ -1,0 +1,3 @@
+﻿INSERT INTO [dbo].[Companies] ([Name], [Question], [Link]) VALUES (N'microsoft', N'Check if a Binary Tree is BST or not', N'https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/')
+INSERT INTO [dbo].[Companies] ([Name], [Question], [Link]) VALUES (N'microsoft', N'Remove duplicates from a string, do it in-place.', N'https://www.geeksforgeeks.org/remove-duplicates-from-a-given-string/')
+INSERT INTO [dbo].[Companies] ([Name], [Question], [Link]) VALUES (N'microsoft', N'Given a rotated array which is sorted search for an element in it', N'https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/')

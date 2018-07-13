@@ -125,7 +125,7 @@ namespace Microsoft.Bot.Sample.LuisBot
 
         private async Task ShowLuisHelp(IDialogContext context, LuisResult result)
         {
-            await context.PostAsync($"try 'microsoft' or 'microsoft interview questions' or 'deloitte' ");
+            await context.PostAsync($"try 'microsoft' or 'microsoft interview questions' or 'deloitte' or 'interview questions for deloitte' ");
         }
 
         private async Task ShowLuisGreeting(IDialogContext context, LuisResult result)
